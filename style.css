@@ -1,0 +1,508 @@
+*{
+    margin: 0;
+     padding: 0; 
+    box-sizing: border-box;
+}
+
+
+.firstProject{
+    background-color: rgb(50, 47, 47);
+    margin: 0 auto;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 1000;
+    height: 100px;
+    padding-top: 30px;
+}
+.inside-firstProjex{
+    display: flex;
+    justify-content: space-around;
+
+
+}
+.one{
+    padding-left: 500px;
+
+}
+*{
+    margin: 0;
+     padding: 0; 
+    box-sizing: border-box;
+}
+.secondProject{
+    background-image: url(banner-bg.png);
+    background-size: cover;
+    height: 500px;
+   background-repeat: no-repeat;
+   
+}
+.content{
+    padding-top: 100px;
+    padding-left: 70px;
+}
+.contentOne{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 20px;
+}
+.contentTwo{
+    font-size: 70px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.contentThree{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.btn{
+    background-color: rgb(47, 47, 47);
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding-right: 30px;
+    padding-left: 40px;
+    padding-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    padding-bottom: 10px;
+    /* text-align: center; */
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.one{
+    padding-left: 400px;
+}
+.inside-thirdProject{
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+   background-size: 70px;
+   height: 500px;
+   padding-top: 50px;
+   padding-right: 70px;
+}
+.code{
+    padding-top: 150px;
+    padding-left: 70px;
+}
+.firstCode{
+    /* padding-bottom: 100px; */
+     /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: xxx-large;
+    color: rgb(229, 80, 26);
+}
+.secondCode{
+    padding-top: 30px;
+}
+.thirdCode{
+    padding-top: 30px;
+}
+.btnOne{
+    margin-top: 60px;
+    background-color: rgb(47, 47, 47);
+    color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 2px;
+    padding-right: 30px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+
+}
+.inside-thirdProjex{
+    text-align: center;
+    padding-top: 150px;
+}
+.software{
+    font-size: xxx-large;
+    color: rgb(229, 80, 26);
+}
+.softwareOne{
+    padding-top: 30px;
+}
+.projexxOne{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.imgOne{
+    background-size: 70px;
+    height: 300px; 
+}
+.imgTwo{
+    background-size: 70px;
+    height: 300px; 
+}
+.imgThree{
+    background-size: 70px;
+    height: 300px; 
+}
+.projexxTwo{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;  
+}
+.imgFour{
+    background-size: 70px;
+    height: 200px;
+    padding-left: 20px; 
+}
+.imgFive{
+    background-size: 70px;
+    height: 200px; 
+    padding-left: 30px;
+}
+.imgSix{
+    background-size: 70px;
+    height: 200px; 
+    width: 300px;
+}
+.projexxThree{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;  
+}
+.imgSeven{
+    background-size: 70px;
+    height: 200px; 
+    width: 270px;
+    margin-left: 20px;
+}
+.imgEight{
+    background-size: 70px;
+    height: 200px; 
+    width: 300px;
+    padding-left: 30px;
+}
+.imgNine{
+    background-size: 70px;
+    height: 200px; 
+    width: 300px;
+}
+.inside-thirdProjes{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.btnTwo{
+    background-color: rgb(47, 47, 47);
+    color: whitesmoke;
+    padding-right: 30px;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+.gmt{
+    background-image: url(services-bg.png);
+    background-size: contain;
+    height: 800px;
+   background-repeat: no-repeat;
+
+}
+.gmtOne{
+    padding-top: 100px;
+}
+.firstGmt{
+    text-align: center;
+    color: ghostwhite;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.secondGmt{
+    text-align: center;
+    color: ghostwhite;
+}
+*{
+    box-sizing: border-box !important;
+    transition: ease all 0.5s;
+}
+.gmtTwo{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+.let{
+    background-color: rgb(222, 83, 32);
+    color: whitesmoke;
+    text-align: center;
+    height: 250px;
+    width: 350px;
+    padding-top: 40px;
+}
+.letOne{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+  
+    
+
+}
+
+
+.const{
+    background-color: rgb(222, 83, 32);
+    color: whitesmoke;  
+    text-align: center;
+    height: 250px;
+    width: 350px;
+    padding-top: 40px;
+}
+.var{
+    background-color: rgb(222, 83, 32);
+    color: whitesmoke;
+    text-align: center;
+     height: 250px;
+    width: 350px;
+    padding-top: 40px;
+
+}
+.imgTen{
+    width: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 70px;
+    height: 120px;
+}
+.imgEleven{
+    height: 50px;
+}
+.constOne{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 70px;
+}
+.imgTwelve{
+    height: 50px;
+
+}
+.varOne{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding-top: 70px; 
+}
+.inside-num{
+    color: rgb(229, 80, 26);
+    font-size: 40px;
+    font-weight: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.inside-Num{
+    padding-bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(105, 101, 101);
+}
+.primitive{
+    padding-left: 100px;
+}
+.inside-string{
+    padding-left: 115px;
+    font-size: 28px;
+    color: rgb(229, 80, 26);
+    font-weight: 800px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.imgThirteen{
+    padding-left: 265px;
+    
+}
+.inside-String{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(105, 101, 101);
+    padding-top: 25px;
+    padding-left: 45px;
+}
+.react{
+    color: rgb(229, 80, 26);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 150px;
+    text-align: center;
+}
+
+
+.non-primitive{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.firstnonPrimitive{
+    background-image: url(img-10.png);
+    background-size: cover;
+   height: 500px;
+   width: 680px;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+.textOne{
+    margin-top: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 250px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textTwo{
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 250px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textThree{
+    margin-top: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 250px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.textFour{
+    margin-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 250px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btnThree{
+   background-color: rgb(229, 80, 26);
+  border-color: rgb(229, 80, 26);
+    color: whitesmoke;
+    margin-top: 40px; 
+    padding-left: 40px; 
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-radius: 40px;
+}
+.secondnonPrimitive{
+    background-color: rgb(198, 193, 193);
+    background-size: contain;
+    height: 500px;
+    width: 585px;
+    background-repeat: no-repeat;
+
+}
+.inside-secondnonPrimitive{
+    text-align: center;
+    padding-top: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.firstlink{
+    /* color: whitesmoke; */
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(193, 188, 188);
+
+}
+.secondlink{
+    /* color: whitesmoke; */
+    color: rgb(193, 188, 188);
+}
+.thirdlink{
+    /* color: whitesmoke; */
+    color: rgb(193, 188, 188);
+}
+.fourthlink{
+    /* color: whitesmoke; */
+    color: rgb(193, 188, 188);
+}
+.fifthlink{
+    /* color: whitesmoke; */
+    color: rgb(193, 188, 188);
+}
+.imgFourteen{
+ 
+   height: 13px;
+}
+.imgFifteen{
+
+    height: 13px;
+}
+.imgSixteen{
+
+    height: 13px;
+}
+.footer{
+    padding-top: 100px;
+    margin-top: 5px;
+    background-color: rgb(50, 47, 47);
+    height: 290px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+}
+.firstfooterOne{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.secondfooterOne{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(193, 188, 188);
+    padding-top: 30px;
+}
+.firstfooterTwo{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.secondfooterTwo{
+    padding-top: 30px;
+}
+.firstfooterThree{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;  
+}
+.secondfooterThree{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(193, 188, 188);
+    padding-top: 30px; 
+}
+.firstfooterFour{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder; 
+}
+.secondfooterFour{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(193, 188, 188);
+    padding-top: 30px; 
+}
+.firstBlank{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    color: rgb(100, 97, 97);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+}
+
+
+
